@@ -183,7 +183,7 @@ const PIPE = [
     vis: `<div class="shipped"><img src="${K}/knife/icon.png" alt=""><span class="stamp ship">${T('ВЫПУЩЕНА', 'SHIPPED')}</span></div>`, open: 'roblox', game: 'knife' },
 ];
 const WHO = { me: T('Я', 'Me'), ai: T('Агенты · ревью моё', 'AI · reviewed by me'), both: T('Я + агенты', 'Me + agents') };
-const SLOGAN = T('Нанимаете одного — <em>получаете студию.</em>', 'Hire one person. <em>Get a studio.</em>');
+const SLOGAN = T('Нанимаете одного&nbsp;— <em>получаете студию.</em>', 'Hire one person. <em>Get a studio.</em>');
 
 // ---------- Содержимое приложений ----------
 const VIEWS = {
